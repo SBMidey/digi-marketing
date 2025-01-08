@@ -1,0 +1,53 @@
+Facebook Business Manager Setup Guide
+
+Prerequisites:
+- Personal Facebook Account (pending user creation)
+- Business Information (✓ collected)
+- Website Access for Verification
+
+Step 1: Create Business Manager
+- Visit business.facebook.com
+- Click "Create Account"
+- Enter business details:
+  * Business Name: Abundance by Ay
+  * Business Address: 71-75 Shelton Street, Covent Garden, EC2H 9JQ
+  * Business Phone: 07377401294
+  * Business Registration: 15179145
+
+Step 2: Business Verification
+Required Documents:
+- Business Registration Certificate
+- Utility Bill or Bank Statement
+- Government-issued ID/Passport
+
+Step 3: Add Business Assets
+Websites to Configure:
+1. intimatethreads.com
+   - Domain Verification Required
+   - Pixel Setup
+   - Catalog Setup
+
+2. flexifitleggings.com
+   - Domain Verification Required
+   - Pixel Setup
+   - Catalog Setup
+
+Step 4: Ad Account Setup
+- Create Master Ad Account
+- Set Payment Method
+- Set Account Roles
+- Configure Billing Thresholds
+
+Step 5: Team Setup
+- Add Admin Users
+- Set Permissions
+- Configure Two-Factor Authentication
+
+Important Notes:
+- Keep all verification documents ready
+- Ensure domain access for verification
+- Plan payment method details
+- Consider backup admin access
+
+Status: Awaiting personal Facebook account creation
+Next Steps: Begin Business Manager setup once account is available
