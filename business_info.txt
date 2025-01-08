@@ -1,0 +1,32 @@
+Business Information for Ad Accounts
+
+Legal Business Name: Abundance by Ay
+Business Address: 71-75 Shelton Street, Covent Garden, EC2H 9JQ
+Business Phone: 07377401294
+Business Registration Number: 15179145
+
+Websites to Manage:
+- intimatethreads.com
+- flexifitleggings.com
+
+Notes:
+- This information will be used for business verification across:
+  * Meta Business Manager (Facebook/Instagram)
+  * TikTok Business Center
+  * Google Ads
+
+Platform Setup Status:
+1. Meta Business Manager (Facebook/Instagram)
+   - Status: Pending
+   - Blocker: Need personal Facebook account for business verification
+   - Required for: Managing ads on Facebook and Instagram
+   
+2. TikTok Business Center
+   - Status: Not Started
+   - Next Step: Create account once Facebook setup is complete
+   
+3. Google Ads
+   - Status: Not Started
+   - Next Step: Create account once Facebook setup is complete
+
+Status: Awaiting Facebook account access for business verification
